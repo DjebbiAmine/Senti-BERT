@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/DescoveryAmine/Senti-BERT/blob/main/multidialct_arabic_bert-SA.png?raw=true)
 This is a repository of the Multi-dialect Sentiment Analysis BERT model.
 
 By AmineDjebbi.
